@@ -1,0 +1,4 @@
+StreamingTrim
+=============
+
+DNA reads Trimmer
