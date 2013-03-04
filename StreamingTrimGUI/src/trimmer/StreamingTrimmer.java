@@ -290,7 +290,7 @@ public class StreamingTrimmer {
     }
 
     /**
-     * Trim input sequances and write them into a file in the specified
+     * Trim input sequences and write them into a file in the specified
      * outputPath
      *
      * @param cutOff the quality cut off
