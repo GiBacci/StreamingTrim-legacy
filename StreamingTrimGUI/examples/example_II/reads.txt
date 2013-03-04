@@ -1,0 +1,5 @@
+# Reads downloaded from NCBI SRA:
+
+http://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=viewer&m=data&s=viewer&run=SRR073271
+
+
