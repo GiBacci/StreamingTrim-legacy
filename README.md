@@ -12,4 +12,4 @@ You can download the run scripts files too (windowsLauncher.bat or unixLauncher.
 In order to be able to run the program all the files and the lib folder are to be 
 in the same folder, then you can run one of the launch scripts or you can open a 
 terminal and write:
-`java -jar StreaminTrimGUI.jar`
+`java -jar StreamingTrimGUI.jar`
